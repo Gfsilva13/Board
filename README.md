@@ -9,7 +9,8 @@
 * 'draw.io' - Gerar Diagrama de casses.
 * 'liquibase' - Ferramenta para controle das alterações no shema do banco de dados.
 * 'lombok' - Geração de código automático atraves de anotaçoes.
-* 'DBWeaver - Gerenciador de banco de dados.
+* 'DBeaver - Gerenciador de banco de dados.
+* 'IntelliJ - IDE desenvolvimento código.
   
 | Anotação              | O que faz                                                     |
 | --------------------- | ------------------------------------------------------------- |
