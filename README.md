@@ -1,7 +1,7 @@
 # 🚀 Desafio de Projeto - Decola Teck 2025
 
 ### 💡 Board de Tarefas com Java
-#### 🎯Projeto desenvolvido desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas, seguindo boas práticas de programação.
+#### 🎯 Projeto desenvolvido desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas, seguindo boas práticas de programação.
 
 ![Diagrama de Classes](docs/Board.jpg)
 
