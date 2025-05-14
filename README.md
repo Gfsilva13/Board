@@ -1,13 +1,15 @@
 # 🚀 Desafio de Projeto - Decola Teck 2025
 
-## Board de Tarefas com Java
-### Projeto desenvolvido desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas, seguindo boas práticas de programação.
+### 💡 Board de Tarefas com Java
+#### 🎯Projeto desenvolvido desde o planejamento e estruturação até a implementação de funcionalidades como gerenciamento de dados e integração entre camadas, seguindo boas práticas de programação.
 
 ![Diagrama de Classes](docs/Board.jpg)
 
 ### 🛠 Ferramentas
-* 'liquibase' como ferramenta para controle das alterações no shema do banco de dados.
-* 'lombok' para geração de código automático atraves de anotaçoes.
+* 'draw.io' - Gerar Diagrama de casses.
+* 'liquibase' - Ferramenta para controle das alterações no shema do banco de dados.
+* 'lombok' - Geração de código automático atraves de anotaçoes.
+* 'DBWeaver - Gerenciador de banco de dados.
   
 | Anotação              | O que faz                                                     |
 | --------------------- | ------------------------------------------------------------- |
