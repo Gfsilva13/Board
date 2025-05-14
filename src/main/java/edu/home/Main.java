@@ -1,7 +1,7 @@
 package edu.home;
 
 import edu.home.persistence.migration.MigrationStrategy;
-//import edu.home.ui.MainMenu;
+import edu.home.ui.MainMenu;
 
 import java.sql.SQLException;
 
@@ -12,7 +12,7 @@ public class Main {
         try(var connection = getConnection()){
             new MigrationStrategy(connection).executeMigration();
         }
-        //new MainMenu().execute();
+        new MainMenu().execute();
 
     }
 }
